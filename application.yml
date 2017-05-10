@@ -5,7 +5,7 @@ logging:
         cloud:
           samples: DEBUG
 
-foo: barnone
+foo: barter
 
 fortune:
   fallbackFortune: The fog should lift today.
