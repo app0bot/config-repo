@@ -5,7 +5,7 @@ logging:
         cloud:
           samples: INFO
 
-foo: bar
+foo: baz
 
 fortune:
   fallbackFortune: The fog should lift today.
