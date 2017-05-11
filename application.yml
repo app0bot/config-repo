@@ -5,10 +5,8 @@ logging:
         cloud:
           samples: DEBUG
 
-foo: baz
-
 fortune:
-  fallbackFortune: The fog should lift today.
+  fallbackFortune: Your future is unclear.
 
 eureka:
   instance:
